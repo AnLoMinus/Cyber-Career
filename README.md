@@ -1,5 +1,5 @@
 # Cyber-Career
-##  Cyber Career 
+##  Cyber Security Career With TryHackMe 
 ### I Use this Paths to work towards a Career in Cyber Security
 
 ---
